@@ -54,6 +54,6 @@ changelog:
   disable: true
 terraform:
   cloud:
-    username: dscain
-    namespace: dscain
+    username: kevynb
+    namespace: kevynb
 version: 2
